@@ -75,7 +75,7 @@
             nav: true,
             navText: ['<i class="fa fa-angle-double-left"></i>', '<i class="fa fa-angle-double-right"></i>'],
             dots: false,
-            autoplay: true,
+            autoplay: false,
             autoplayTimeout: 5000,
             smartSpeed: 750,
             responsive: {
@@ -92,7 +92,7 @@
                     items: 4
                 },
                 1200: {
-                    items: 5
+                    items: 6
                 }
             }
         });
